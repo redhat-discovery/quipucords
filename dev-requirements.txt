@@ -207,9 +207,9 @@ cryptography==36.0.2 \
     # via
     #   ansible-base
     #   paramiko
-darker==1.4.1 \
-    --hash=sha256:c63cbfcf707987bc5cb3da30eaf5f2348aabc03f96b7b69bc31a34e96d8f2b8a \
-    --hash=sha256:d423f4d791ff9a752a4a567a074d6c352cf6eb938d24d026a5799fcaa739c6c5
+darker==1.4.2 \
+    --hash=sha256:45bc9e66d0a70e07e66db9bed7bbf62b628b56a4a7ad4fafbacf9f4dcee49c2e \
+    --hash=sha256:65a45a17b90458008cb4df953f828fcc69e977d9147cdf648fa3cc2138e6f063
     # via -r dev-requirements.in
 django==3.1.14 \
     --hash=sha256:0fabc786489af16ad87a8c170ba9d42bfd23f7b699bd5ef05675864e8d012859 \
