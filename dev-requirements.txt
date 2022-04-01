@@ -547,9 +547,9 @@ pygments==2.11.2 \
     --hash=sha256:44238f1b60a76d78fc8ca0528ee429702aae011c265fe6a8dd8b63049ae41c65 \
     --hash=sha256:4e426f72023d88d03b2fa258de560726ce890ff3b630f88c21cbb8b2503b8c6a
     # via flakeheaven
-pylint==2.12.2 \
-    --hash=sha256:9d945a73640e1fec07ee34b42f5669b770c759acd536ec7b16d7e4b87a9c9ff9 \
-    --hash=sha256:daabda3f7ed9d1c60f52d563b1b854632fd90035bcf01443e234d3dc794e3b74
+pylint==2.13.4 \
+    --hash=sha256:7cc6d0c4f61dff440f9ed8b657f4ecd615dcfe35345953eb7b1dc74afe901d7a \
+    --hash=sha256:8672cf7441b81410f5de7defdf56e2d559c956fd0579652f2e0a0a35bea2d546
     # via
     #   -r dev-requirements.in
     #   flake8-pylint
